@@ -91,22 +91,6 @@ conda activate mediffuse
 pip install -r requirements.txt
 ```
 
-Download/Use datasets and weights:
-
-### Datasets:
-
-1. CT2MRI-img2img: https://huggingface.co/datasets/sauravdosi/ct2mri-img2img-train
-2. CT2MRI-contour2img: https://utdallas.box.com/s/4e70var2i1n53wfb5lk3g9wtyb91t3r6
-3. MRI2CT-img2img: https://huggingface.co/datasets/sauravdosi/mri2ct-img2img-train
-4. Out of Distribution: https://utdallas.box.com/s/mb8dm3kypa2mf008nkqacbhmlosq3m19
-
-### Fine-tuned Weights: Box
-
-1. InstructPix2Pix (CT2MRI): https://utdallas.box.com/s/1gyzyfftu0z0r8onyex6ug26mxde5wlw
-2. InstructPix2Pix (MRI2CT): https://utdallas.box.com/s/21k5bnqdbtj0oy4o2d56k80mc0bbo708
-3. ControlNet (CT2MRI): https://utdallas.box.com/s/g1youcm3ndtmlhvvvir3cjcuxcbgqxxu
-
-Place the downloaded directories in the project root as data/ and models/.
 
 ## 🛠️ Usage
 
