@@ -1,0 +1,42 @@
+# Datasets
+data/
+
+# Model weights and checkpoints
+models/
+
+# Generated results / images
+img/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# IDE settings
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Training logs
+lightning_logs/
+lightning_logs_*/
+
+# TensorBoard logs
+events.out.tfevents.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+src/diffusers/
