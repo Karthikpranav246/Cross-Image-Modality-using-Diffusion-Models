@@ -182,12 +182,6 @@ Mediffuse provides a reliable, fast, and extensible framework for translating be
 
 - End-to-end open-source code and live demo.
 
-Thanks to all the authors: Saurav Dosi, Pratiksha Aigal, Varad Abhyankar and Animesh Maheshwari.
 
-Thanks to Professor Tian, for the opportunity to work on a novel project as a part of CS 6384 - Computer Vision Graduate course.
 
-We welcome contributions and feedback!
 
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
